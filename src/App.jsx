@@ -11,7 +11,7 @@ const K = {
 
 const defaultLists = [
   {
-    id: 1, name: "Getting Started",
+    id: 1, name: "Your first list",
     tasks: [
       { id: 1, text: "Drag tasks to reorder by priority", done: false },
       { id: 2, text: "Click the ✉ icon to share via Gmail", done: false },
